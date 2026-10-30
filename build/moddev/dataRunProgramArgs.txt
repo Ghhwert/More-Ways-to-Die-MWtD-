@@ -1,0 +1,29 @@
+# Main Class
+cpw.mods.bootstraplauncher.BootstrapLauncher
+
+# NeoForge Run-Type Program Arguments
+--launchTarget
+forgedatadev
+--assetIndex
+17
+--assetsDir
+/home/klokk_ubuntu/.gradle/caches/neoformruntime/assets
+--gameDir
+.
+--fml.fmlVersion
+4.0.45
+--fml.mcVersion
+1.21.1
+--fml.neoForgeVersion
+21.1.265
+--fml.neoFormVersion
+20240808.144430
+
+# User Supplied Program Arguments
+--mod
+more_ways_to_die
+--all
+--output
+/home/klokk_ubuntu/Projects/More-Ways-to-Die-MWtD-/src/generated/resources
+--existing
+/home/klokk_ubuntu/Projects/More-Ways-to-Die-MWtD-/src/main/resources

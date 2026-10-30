@@ -1,0 +1,13 @@
+{
+  "itemGroup.more_ways_to_die": "Example Mod Tab",
+  "block.more_ways_to_die.example_block": "Example Block",
+  "item.more_ways_to_die.example_item": "Example Item",
+
+  "more_ways_to_die.configuration.title": "More Ways to Die (MWtD) Configs",
+  "more_ways_to_die.configuration.section.more_ways_to_die.common.toml": "More Ways to Die (MWtD) Configs",
+  "more_ways_to_die.configuration.section.more_ways_to_die.common.toml.title": "More Ways to Die (MWtD) Configs",
+  "more_ways_to_die.configuration.items": "Item List",
+  "more_ways_to_die.configuration.logDirtBlock": "Log Dirt Block",
+  "more_ways_to_die.configuration.magicNumberIntroduction": "Magic Number Text",
+  "more_ways_to_die.configuration.magicNumber": "Magic Number"
+}
